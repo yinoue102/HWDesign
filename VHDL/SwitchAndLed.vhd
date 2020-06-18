@@ -12,6 +12,6 @@ architecture RTL of SwitchAndLed is
   
 begin
   
-  led <= sw;
+  led <= switch;
   
 end architecture RTL;
